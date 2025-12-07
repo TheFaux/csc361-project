@@ -5,10 +5,10 @@
 - **string** — Punctuation definition
 - **pandas** — CSV parsing
 - **nltk** — Stopwords + Porter Stemmer
-- **scikit-learn (sklearn)**
- - CountVectorizer
- - Train/Test Split
- - RandomForestClassifier
+- **scikit-learn (sklearn)**:
+  - CountVectorizer
+  - Train/Test Split
+  - RandomForestClassifier
 
 ---
 
