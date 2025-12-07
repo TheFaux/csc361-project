@@ -1,5 +1,10 @@
 # CSC361 Project: Spam Filtering
 
+## 📊 Dataset used
+["Spam Mails Dataset" by Venkatesh Garnepudi](https://www.kaggle.com/datasets/venky73/spam-mails-dataset/data) on [Kaggle](https://www.kaggle.com)
+
+---
+
 ## 📚 Libraries Used
 
 - **string** — Punctuation definition
